@@ -6,5 +6,5 @@ body{
     background-color: #e6e6ff;
     width: 100vw; /* 100% of the viewport */
     overflow-x: hidden; /* if it overflows outside the viewport, hide it so theres no horizontal bar */
-    font-family: "";
+    font-family: "Montserrat", sans-serif;
 }
